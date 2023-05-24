@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa9ff0a2-ca1c-4c27-952a-c7f870094593</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46e5d175-2127-4a8b-b0bc-0c4273c1dc5d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66e23c31-c990-4692-b241-c2cc466257ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>963e892b-301e-48e7-8033-263a75b1fdf8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://practicetestautomation.com/practice-test-login/'</defaultValue>
+      <description></description>
+      <id>46e5d175-2127-4a8b-b0bc-0c4273c1dc5d</id>
+      <masked>false</masked>
+      <name>siteURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'student'</defaultValue>
+      <description></description>
+      <id>66e23c31-c990-4692-b241-c2cc466257ae</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'p4y+y39Ir5PJb2ispxT0Ew=='</defaultValue>
+      <description></description>
+      <id>963e892b-301e-48e7-8033-263a75b1fdf8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
